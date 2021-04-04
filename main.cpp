@@ -1,3 +1,10 @@
+/*
+Ahmed Arafat
+Business Information System
+ahmedmoyousry.bis@gmail.com
+6-2020
+Piece Of Cake
+*/
 #include <bits/stdc++.h>
 using namespace std;
 typedef long long ll;
